@@ -1,4 +1,4 @@
 # repotest
 Testowe repozytorium
 
-* to byl test usuniecia *
+*to byl test usuniecia*
